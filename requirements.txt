@@ -1,0 +1,10 @@
+streamlit==1.34.0
+langchain==0.2.0
+openai-whisper==20231117
+pygame==2.5.2
+gtts==2.5.1
+pyaudio==0.2.14
+python-dotenv==1.0.1
+langchain-groq==0.1.4
+scipy==1.13.1
+ffmpeg-python==0.2.0
